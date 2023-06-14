@@ -1,2 +1,2 @@
-# fungo
-Fungo 0.1
+# FunGo
+FunGo 0.1
